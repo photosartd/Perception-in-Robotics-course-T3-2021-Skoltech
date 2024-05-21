@@ -45,6 +45,7 @@
 *.pyc
 src/.idea
 *.ipynb_checkpoints
+.idea
 
 # OS generated files #
 ######################
